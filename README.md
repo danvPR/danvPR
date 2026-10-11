@@ -1,4 +1,4 @@
-# 🇻🇳 Studio Dự Án Người Việt (StudioDANV)
+# Mizition Team
 
 <p align="center">
   <img src="https://static.wikitide.net/studiodanvwiki/a/af/STUDIODANV.svg" alt="StudioDANV Logo" width="200px"/>
@@ -18,7 +18,7 @@
 ---
 
 ## 📌 Giới thiệu chung
-**Studio Dự Án Người Việt (StudioDANV)** là một studio cộng đồng được thành lập với sứ mệnh tổng hợp, quảng bá và ủng hộ các sản phẩm công nghệ, trò chơi và ứng dụng do chính người Việt sáng tạo. Đây từng là sân chơi sôi nổi, nơi các lập trình viên trẻ giao lưu, học hỏi và cùng nhau phát triển tư duy logic qua những dòng code.
+**MIzition (StudioDANV)** là một studio cộng đồng được thành lập với sứ mệnh tổng hợp, quảng bá và ủng hộ các sản phẩm công nghệ, trò chơi và ứng dụng do người dùng sáng tạo. Đây từng là sân chơi sôi nổi, nơi các lập trình viên trẻ giao lưu, học hỏi và cùng nhau phát triển tư duy logic qua những dòng code.
 
 ## 🏛️ Lịch sử & Cột mốc quan trọng
 * **2023**: Studio chính thức được ra mắt trên nền tảng Scratch.
